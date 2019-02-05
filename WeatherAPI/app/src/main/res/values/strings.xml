@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherAPI</string>
+    <string name="searching_btn">Search</string>
+
+    <string name="apiKey">235bef5a99d6bc6193525182c409602c</string>
+
+    <string name="google_maps_key">AIzaSyB9MxxJBmzLHdfsMEZSdV0vORR_MRwirPI</string>
+    <string name="input_your_place">Input your place...</string>
+
+</resources>

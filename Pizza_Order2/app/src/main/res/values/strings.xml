@@ -1,0 +1,12 @@
+
+<resources>
+        <string name="app_name">Pizza_Order2</string>
+        <string name="name">ДІАБОЛА</string>
+        <string name="sort">Італійська, гостра</string>
+        <string name="ingredients">домашній томатний соус, салямі піканте,перці болгарський та чілі, маслини і моцарела</string>
+        <string name="price">123грн</string>
+        <string name="Button">Замовити</string>
+        <string name="Button1">Скасувати замовлення</string>
+        <string name="status">Не замовлено</string>
+        <string name="status1">Замовлено</string>
+    </resources>
